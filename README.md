@@ -2,6 +2,7 @@
 
 <img align="right" width="250px" src="https://user-images.githubusercontent.com/17484350/138557170-d8079b94-a517-4366-ade8-8d473e3f3f1d.jpg">
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/340b0de474464fdfa3643edb21ec679c)](https://app.codacy.com/gh/tj-actions/coverage-badge-go?utm_source=github.com&utm_medium=referral&utm_content=tj-actions/coverage-badge-go&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/tj-actions/coverage-badge-go/workflows/CI/badge.svg)](https://github.com/tj-actions/coverage-badge-go/actions?query=workflow%3ACI)
 ![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 [![Update release version.](https://github.com/tj-actions/coverage-badge-go/workflows/Update%20release%20version./badge.svg)](https://github.com/tj-actions/coverage-badge-go/actions?query=workflow%3A%22Update+release+version.%22)
